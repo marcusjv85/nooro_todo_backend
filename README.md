@@ -80,10 +80,6 @@ This starts the backend server at `http://localhost:5000`.
 ## 🛠 Development Notes
 - Ensure **backend is running before frontend**.
 - You can switch between **SQLite and MySQL** by modifying `prisma/schema.prisma`.
-- Use **Railway/Render for backend deployment** and **Vercel for frontend deployment**.
-
-## 🤝 Contributions
-Feel free to fork and submit pull requests! 🚀
 
 ## 📜 License
 This project is open-source and available under the **MIT License**. 📄
